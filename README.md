@@ -4,4 +4,4 @@ Plasma Physics simulations project
 
 ### Example
 
-<img src="demo/torus.gif" alt="animated" width=800 height=700/>
+<img src="demo/torus.gif" alt="animated" width=500 height=400/>
