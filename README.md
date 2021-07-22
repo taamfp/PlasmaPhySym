@@ -1,4 +1,4 @@
-# PlasmaPhySym
+# PlasmaSym
 Plasma Physics simulations project
 
 
