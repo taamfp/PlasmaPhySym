@@ -2,6 +2,6 @@
 Plasma Physics simulations project
 
 
-#### Example
+### Example
 
-<img src="demo/torus.gif" alt="animated" />
+<img src="demo/torus.gif" alt="animated" width=300 height=300/>
